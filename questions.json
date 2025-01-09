@@ -1,0 +1,92 @@
+{
+    "questions": [
+        {
+            "timestamp": "19.60",
+            "question_type": "mcq",
+            "question": {
+                "question_description": "If you are traveling in an open car and throw an apple upwards, what intriguing phenomenon might you observe?",
+                "options": [
+                    {
+                        "option_id": "A",
+                        "option_description": "The apple falls behind the car."
+                    },
+                    {
+                        "option_id": "B",
+                        "option_description": "The apple appears to follow the car after hitting the road."
+                    },
+                    {
+                        "option_id": "C",
+                        "option_description": "The apple floats in mid-air."
+                    },
+                    {
+                        "option_id": "D",
+                        "option_description": "The apple disappears."
+                    }
+                ]
+            },
+            "answer": "B"
+        },
+        {
+            "timestamp": "27.28",
+            "question_type": "fill_ups",
+            "question": "While the apple is held inside the moving car, it appears to be at rest relative to the _____, but it is moving at the same speed as the car relative to the _____.",
+            "answer": "car, road"
+        },
+        {
+            "timestamp": "39.76",
+            "question_type": "one_word",
+            "question": "When you throw the apple, are you adding to or opposing its initial velocity (relative to the road)?",
+            "answer": "opposing"
+        },
+        {
+            "timestamp": "53.12",
+            "question_type": "subjective",
+            "question": "Explain why the apple, even after hitting the road, continues to move forward.",
+            "answer": "Even after hitting the road, the apple retains a forward velocity because it was initially moving at the same speed as the car. Throwing it backwards only reduces this velocity, it doesn't completely negate it.  Therefore, the apple still has some forward momentum, causing it to continue moving forward relative to the ground."
+        },
+        {
+            "timestamp": "74.48",
+            "question_type": "mcq",
+            "question": {
+                "question_description": "Why does the apple appear to move backward before hitting the road?",
+                "options": [
+                    {
+                        "option_id": "A",
+                        "option_description": "Because it actually moves backward."
+                    },
+                    {
+                        "option_id": "B",
+                        "option_description": "Because our brain analyzes the motion relative to the car."
+                    },
+                    {
+                        "option_id": "C",
+                        "option_description": "Because of an optical illusion."
+                    },
+                    {
+                        "option_id": "D",
+                        "option_description": "Because the car is accelerating."
+                    }
+                ]
+            },
+            "answer": "B"
+        },
+        {
+            "timestamp": "100.88",
+            "question_type": "fill_ups",
+            "question": "After the apple hits the road, our brain shifts its frame of reference from the _____ to the _____.",
+            "answer": "car, ground"
+        },
+        {
+            "timestamp": "118.80",
+            "question_type": "one_word",
+            "question": "The apparent change in the apple's motion is due to a change in what concept related to motion?",
+            "answer": "reference"
+        },
+        {
+            "timestamp": "122.88",
+            "question_type": "subjective",
+            "question": "Summarize why the apple appears to follow the car after hitting the road, even though it was thrown backward from the car.",
+            "answer": "The apple initially shares the car's velocity. Throwing it backward only reduces this velocity relative to the ground.  While airborne, the apple appears to move backward relative to the car.  However, once it hits the road, our brain's frame of reference shifts to the ground, revealing the apple's remaining forward velocity, making it seem as if it's following the car."
+        }
+    ]
+}
